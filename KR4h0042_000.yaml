@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4h0042/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 囘文類聚
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:33:11.541281'
+  source:
+    repository: kanripo
+    path: KR4h0042/KR4h0042_000.txt
+hash: sha256:d743d8a5220be9be5c1de374e92ea551a8f565ea84b468b61c138997ea59e2ec

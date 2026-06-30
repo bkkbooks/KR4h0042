@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0042/krp/v1/juan/2
+seq: 2
+front:
+  text: 欽定四庫全書集部八
+  hash: sha256:2ca6b36e125227017052aabb38e83ed63103fdf152cf0be95bdfb58f63de9d79
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0042_WYG_002-1a, image: WYG1351/WYG1351-0794a.png}
+body:
+  text: 回文類聚總集類提要臣等謹案回文類聚四卷補遺一卷宋桑世昌編世昌蘭亭考已著録考劉協文心雕龍曰回文所興則道原為始梅庚注謂原當作慶宋賀道慶也蓋其時璇璣圖詩未出故協云然世昌以蘇蕙時代在前故用為託始且繪蕙像於卷首以明創造之功其說未確考藝文類聚載曹植鏡銘八字回環讀之無不成文實在蕙前乃不標以為始是亦少疏又蘇伯玉妻盤中詩據滄浪詩話自玉臺新詠以外别無出典舊本俱在不聞有圖此書繪一圓圖莫知所本考原詩末句稱當從中央周四角則實方盤而非圓盤所圖殆亦妄也惟是詠歌漸盛工巧日增詩家既開此一途不可竟廢録而存之亦足以資博洽是書之末有世昌自跋稱至道御製登載卷首此本無之殆傳寫佚脫歟其補遺一卷則國朝康熙中蘇州朱存孝所采兼及明人然如明典故中所載回文詩三十圖在耳目前者即已不收則所漏亦多矣姑附存以備參考云耳乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:65b275b8a8ccf120c6e54680eb8ff1adfb997b0ed0f151c5dc467f8d21cca579
+metadata:
+  title: 囘文類聚
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:33:11.541281'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4h0042/KR4h0042_002.txt
+hash: sha256:afa2f8edb1d8a29f3b82a7defb3f64a51107c58a87f34a5f71ab637f9f6639b8
